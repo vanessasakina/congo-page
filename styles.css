@@ -110,6 +110,12 @@ h1 {
     100% { height: 100px; }
 }
 
+@media (max-width: 768px) {
+    .candles-container {
+        bottom: 60px; /* Adjust the value to position the candles above the bottom bar on mobile */
+    }
+}
+
 .flame {
     position: absolute;
     top: -20px;
