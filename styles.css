@@ -21,7 +21,7 @@ body, html {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url('assets/congovid.gif') no-repeat center center;
+    background: url('assets/congovid.gif');
     background-size: cover;
 }
 
